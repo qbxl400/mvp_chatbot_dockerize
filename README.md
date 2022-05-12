@@ -2,7 +2,7 @@
 
 
 ## Flask Chatbot
-![Here is the screenshot of the chatbot](/src/mvpchatbot.jpg?raw=true "MVP Chatbot")
+![Here is the screenshot of the chatbot](/src/mvpchatbot.JPG?raw=true "MVP Chatbot")
 
 ### Here's the modle :
 Model is downloaded from [Huggingface](https://huggingface.co/microsoft/DialoGPT-medium)
