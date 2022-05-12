@@ -4,10 +4,10 @@
 ## Flask Chatbot
 
 ### Here's the modle :
-![DialogGPT](https://huggingface.co/microsoft/DialoGPT-medium)
+Model is downloaded from [Huggingface](https://huggingface.co/microsoft/DialoGPT-medium)
 
 ### Here's the data :
-![DialogGPT](https://github.com/microsoft/DialoGPT/tree/master/data)
+The data is from [DialogGPT Data Set](https://github.com/microsoft/DialoGPT/tree/master/data)
 
 ## Local Setup:
  1. Ensure that Python, Flask, and SQLAlchemy  are installed (either manually, or run `pip install -r requirements.txt`).
